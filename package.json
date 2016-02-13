@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Pavel-vo/njs-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/Pavel-vo/njs-webpack-plugin#readme"
+  "homepage": "https://github.com/Pavel-vo/njs-webpack-plugin#readme",
+  "dependencies": {
+    "loader-utils": "^0.2.12",
+    "njs-compiler": "^1.0.0",
+    "swig": "^1.4.2"
+  }
 }
